@@ -12,6 +12,6 @@ router.post("/logout", logout);
 
 router.put("/update-profile", protectRoute, updateProfile);
 
-router.put("/check",protectRoute,checkAuth) 
+router.get("/check",protectRoute,checkAuth) ;
 // whenever we refresh our application we call checkAuth function
 export default router;
