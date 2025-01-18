@@ -2,8 +2,9 @@
 
 A real-time chat application built with the MERN stack, powered by **Socket.io** for seamless messaging and **JWT** for secure authentication. Cloaked Chat App combines modern design with robust functionality to deliver an intuitive and responsive user experience.
 
-## Upcoming
-- **Will Deploy it on 15th Jan, 2024 on render, so stay tuned for the link.**
+## Live Demo
+Check out the live demo [here](https://cloak-chat-app.onrender.com).
+
 ## 🌟 Features
 
 - **Real-time Messaging:** Instant communication powered by Socket.io.
